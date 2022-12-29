@@ -14,6 +14,7 @@ Flow
 6. List
 7. Literals
 8. Tuple
+9. Loops
 
 #Practice_program
 
