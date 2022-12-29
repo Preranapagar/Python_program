@@ -13,6 +13,7 @@ Flow
 5. If else statements and Operators
 6. List
 7. Literals
+8. Tuple
 
 #Practice_program
 
