@@ -24,10 +24,10 @@ Flow
 
 #Python_assignments
 
-1. Assignment:1
-2. Assignment:2
-3. Assignment:3
-4. Assignment:4
-5. Assignment:5
-6. Assignment:6
-7. Assignment:7
+1. Assignment:1 (Topic: variables, string, float, int)
+2. Assignment:2 (Topic: list, tuple)
+3. Assignment:3 (Topic: loops)
+4. Assignment:4 (Topic: loop, dict, functions)
+5. Assignment:5 (Topic: functions)
+6. Assignment:6 (Topic: lambda functions, built-in functions)
+7. Assignment:7 (Topic: datetime module,OS module, exception handling)
