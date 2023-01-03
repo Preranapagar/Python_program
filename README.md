@@ -16,6 +16,7 @@ Flow
 8. Tuple
 9. Loops
 10. Set
+11. Dictionary
 
 #Practice_program
 
