@@ -17,6 +17,7 @@ Flow
 9. Loops
 10. Set
 11. Dictionary
+12. Functions
 
 #Practice_program
 
@@ -33,3 +34,4 @@ Flow
 5. Assignment:5 (Topic: functions)
 6. Assignment:6 (Topic: lambda functions, built-in functions)
 7. Assignment:7 (Topic: datetime module,OS module, exception handling)
+8. Assignment:8 (Topic: Object Oriented Programming)
