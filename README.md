@@ -18,6 +18,8 @@ Flow
 10. Set
 11. Dictionary
 12. Functions
+13. Built-in functions
+14. Lambda function
 
 #Practice_program
 
