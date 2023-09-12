@@ -5,7 +5,8 @@ Basic python practice questions and code
 
 I will be updating the basic python terms, tools and as well as some practice questions with solutions for beginners in the field of Data Science.
 
-Flow
+# Python_Basics
+
 1. Introduction
 2. Variables
 3. Data Types
