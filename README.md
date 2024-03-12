@@ -22,6 +22,7 @@ I will be updating the basic python terms, tools and as well as some practice qu
 13. Built-in functions
 14. Lambda function
 14. Recursive function
+15. File Handling
 
 #Practice_program
 
